@@ -1,27 +1,29 @@
 # Topics
 
-- Email
-- Drive
+- [Email](#email)
+- [File Sharing](#file-sharing)
 - Browser
-- Photos
+- [Photos](#photos)
 - Search
 - Messenger
 - Phone book
-- Calendar
+- [Maps and Navigation](#maps-and-navigation)
+- [Calendar and Contacts](#calendar-and-contacts)
 - Book store
 - Password store
 - App store
 - mfa
 - maps
+- [Repositories](#repositories)
 
-# email
+# Email
 
 ## Provider
 
 - Posteo 
 - Proton 
 
-## app
+## App
 
 - K9
 - fair email
@@ -30,12 +32,32 @@
 
 Aegis Authenticator
 
-# maps 
+# Maps and Navigation
 
 - OsmAnd
-- Magic Earth 
+- Magic Earth
+  - Live Traffic information (in premium plan) 
 
-# Drive
+# File Sharing
 
-- NextCloud
-- 
+## NextCloud
+## Seafile
+## Owncloud
+## Syncthing
+
+# Photos
+
+## Ente.io
+## Immich
+
+# Repositories
+
+ - Gitlab
+ - Gitea
+
+# Calendar and Contacts
+## Radicale
+[https://radicale.org/v3.html](https://radicale.org/v3.html)
+
+## Mail Provider
+Check you mail provider. Most of them have their own calendar and contacts sync
