@@ -20,7 +20,7 @@
 
 ## Provider
 
-- Posteo 
+- Posteo
 - Proton 
 
 ## App
@@ -41,13 +41,25 @@ Aegis Authenticator
 # File Sharing
 
 ## NextCloud
+
+Good replacement for Google drive / one drive/Dropbox
+
 ## Seafile
+
+
 ## Owncloud
+
+Targets enterprises over private use 
+
 ## Syncthing
+
+Good for synchronising files and folders, eg keepass file, or backup all photos from phone to storage/NAS.
 
 # Photos
 
 ## Ente.io
+
+
 ## Immich
 
 # Repositories
@@ -55,7 +67,12 @@ Aegis Authenticator
  - Gitlab
  - Gitea
 
+# App Store
+
+- F-Droid
+
 # Calendar and Contacts
+
 ## Radicale
 [https://radicale.org/v3.html](https://radicale.org/v3.html)
 
