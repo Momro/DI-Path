@@ -16,6 +16,8 @@
 - maps
 - [Repositories](#repositories)
 - AI
+- news feed
+- wallet
 
 # AI
 
