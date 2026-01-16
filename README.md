@@ -37,7 +37,19 @@
 
 # mfa
 
-Aegis Authenticator
+- Aegis Authenticator
+
+## Aegis
+
+migration:
+- open Google Authenticator
+- open menu on top-left
+- migrate codes
+- screenshot QR code
+- send screenshot of QR code to yourself to some messenger or photos app that you can display on your computer
+- open aegis
+- import codes
+- scan screenshot-QR code on computer
 
 # Maps and Navigation
 
@@ -49,7 +61,23 @@ Aegis Authenticator
 
 ## NextCloud
 
-Good replacement for Google drive / one drive/Dropbox
+- Good replacement for Google drive / one drive/Dropbox
+- self-hosted and managed service
+
+### nextcloud self-hosted
+
+
+### nextcloud managed
+
+- price per month in €, all for 10 users
+  - 100gb: 5€
+  - 500gb: 7€
+  - 2000gb: 10€
+
+e.g. here: https://www.hosting.de/nextcloud/managed-nextcloud/
+
+migration path from Google Drive and Dropbox
+
 
 ## Seafile
 
@@ -66,8 +94,16 @@ Good for synchronising files and folders, eg keepass file, or backup all photos 
 
 ## Ente.io
 
+- provider
+  - price per month
+    - 50gb: 2.50€
+    - 200gb: 5€
+    - 1000gb: 10€
+    - 2000gb: 20€
 
 ## Immich
+
+- self-hosted
 
 # Repositories
 
@@ -85,3 +121,7 @@ Good for synchronising files and folders, eg keepass file, or backup all photos 
 
 ## Mail Provider
 Check you mail provider. Most of them have their own calendar and contacts sync
+
+# Search
+
+- Ecosia: uses Bing, green i
