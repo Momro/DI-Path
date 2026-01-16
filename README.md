@@ -11,7 +11,7 @@
 - Phone book
 - [Maps and Navigation](#maps-and-navigation)
 - [Calendar and Contacts](#calendar-and-contacts)
-- Book store
+- Book store/ebooks
 - Password store
 - [App store](#app store)
 - [mfa](#mfa)
@@ -19,6 +19,43 @@
 - [AI](#ai)
 - news feed
 - wallet
+- [Music](#music)
+- [Video](#video)
+
+# Messenger
+
+- Signal
+  - only desktop app, no web
+  - no location sharing
+- Threema
+  - extreme security-oriented
+  - has webapp
+  - no location sharing
+ 
+## Location Sharing options
+(0. Telegram)
+1. Glympse
+2. ownTracks -> self-hosted ( https://owntracks.org/ -- https://owntracks.org/booklet/guide/quicksetup/ -- https://github.com/owntracks/docker-recorder )
+3. Nextcloud Talk
+
+# Video
+
+self-hosted only:
+
+- Kodi
+- Jellyfin
+
+# music
+
+- Navidrome
+
+# Audio books
+
+- AudioBookShelf
+
+# book store/ebooks
+
+- Kavita (self-hosted): https://wiki.kavitareader.com/
 
 # AI
 
@@ -125,3 +162,8 @@ Check you mail provider. Most of them have their own calendar and contacts sync
 # Search
 
 - Ecosia: uses Bing, green i
+
+
+# other
+
+- Recipes: Tandoor (self-hosted option) https://docs.tandoor.dev/install/docker/
