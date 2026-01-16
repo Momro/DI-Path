@@ -1,6 +1,8 @@
 # Topics
 
 - [Email](#email)
+  - [Provider](#provider)
+  - [App](#app)
 - [File Sharing](#file-sharing)
 - [Browser](#browser)
 - [Photos](#photos)
@@ -13,7 +15,6 @@
 - Password store
 - [App store](#app store)
 - [mfa](#mfa)
-- [maps](#maps)
 - [Repositories](#repositories)
 - [AI](#ai)
 - news feed
