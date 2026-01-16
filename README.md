@@ -2,20 +2,20 @@
 
 - [Email](#email)
 - [File Sharing](#file-sharing)
-- Browser
+- [Browser](#browser)
 - [Photos](#photos)
-- Search
-- Messenger
+- [Search](#search)
+- [Messenger](#messenger)
 - Phone book
 - [Maps and Navigation](#maps-and-navigation)
 - [Calendar and Contacts](#calendar-and-contacts)
 - Book store
 - Password store
-- App store
-- mfa
-- maps
+- [App store](#app store)
+- [mfa](#mfa)
+- [maps](#maps)
 - [Repositories](#repositories)
-- AI
+- [AI](#ai)
 - news feed
 - wallet
 
