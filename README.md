@@ -62,6 +62,8 @@ self-hosted only:
 
 - Navidrome
 
+App: https://linuxundich.de/android/tempo-android-auto-navidrome-streaming/ 
+
 # Audio books
 
 - AudioBookShelf
