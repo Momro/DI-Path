@@ -60,7 +60,7 @@ self-hosted only:
 
 # music
 
-- Navidrome
+- Navidrome (Docker)
 
 App: https://linuxundich.de/android/tempo-android-auto-navidrome-streaming/ 
 
