@@ -62,8 +62,11 @@ self-hosted only:
 
 - Navidrome (Docker)
 
-App: https://linuxundich.de/android/tempo-android-auto-navidrome-streaming/ 
-
+## App
+- Tempo
+  - https://github.com/CappielloAntonio/tempo
+  - https://linuxundich.de/android/tempo-android-auto-navidrome-streaming/ 
+  
 # Audio books
 
 - AudioBookShelf
