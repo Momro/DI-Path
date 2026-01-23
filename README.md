@@ -22,6 +22,11 @@
   - Music
   - Video
   - Ebooks
+ 
+# Idea for a migration path / todo list
+
+- [Photos](photos.md#photos)
+
 
 
 
