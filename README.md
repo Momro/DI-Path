@@ -25,9 +25,7 @@
  
 # Idea for a migration path / todo list
 
-- [Photos](photos.md#photos)
-
-
+[Migration Path](migration-plan.md)
 
 
 # App Store
