@@ -5,7 +5,7 @@
 3. Search Engine
 4. Messenger
 5. AI
-6. Mail
+6. Mail (remember it might take a long time to get an email export)
 7. Contacts
 8. Calendar
 9. Maps/Navigation
