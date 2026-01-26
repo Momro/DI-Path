@@ -3,6 +3,7 @@
 ## Provider
 
 - Posteo
+  - offers free migration from Gmail
 - Proton 
 
 ## App
