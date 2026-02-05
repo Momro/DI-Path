@@ -44,7 +44,12 @@ Check you mail provider. Most of them have their own calendar and contacts sync
 
 - Ecosia: uses Bing, green i
 
+# wallet 
+
+- bank account at ING: no alternative to Google Wallet
+
 
 # other
 
 - Recipes: Tandoor (self-hosted option) https://docs.tandoor.dev/install/docker/
+
