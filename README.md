@@ -34,11 +34,20 @@
 
 # Calendar and Contacts
 
-## Radicale
+## data 
+### Radicale
 [https://radicale.org/v3.html](https://radicale.org/v3.html)
 
-## Mail Provider
-Check you mail provider. Most of them have their own calendar and contacts sync
+### Mail Provider
+Check you mail provider. Most of them have their own calendar and contacts sync. Sometimes issues with shared calendars. 
+
+### nextcloud
+
+Works great 
+
+## app
+
+- Etar for calendar
 
 # Search
 
