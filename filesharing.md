@@ -4,6 +4,7 @@
 
 - Good replacement for Google drive / one drive/Dropbox
 - self-hosted and managed service
+- how do you edit files on mobile device? 
 
 ### nextcloud self-hosted
 
