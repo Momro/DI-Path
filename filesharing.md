@@ -4,7 +4,11 @@
 
 - Good replacement for Google drive / one drive/Dropbox
 - self-hosted and managed service
-- how do you edit files on mobile device? 
+- how do you edit files on mobile device?
+
+## app
+- nextcloud app
+- for editing files: requires additional plug in/addon/docker, like onlyoffice or collabora (has separate app) 
 
 ### nextcloud self-hosted
 
